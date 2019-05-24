@@ -1,0 +1,7 @@
+[package]
+name = "while_loop"
+version = "0.1.0"
+authors = ["litchi"]
+edition = "2018"
+
+[dependencies]
